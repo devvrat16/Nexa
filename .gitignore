@@ -1,0 +1,31 @@
+# Node
+node_modules
+.next
+out
+dist
+
+# Python
+__pycache__/
+*.pyc
+.venv
+venv
+
+# Environment
+.env
+.env.local
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# IDE
+.vscode
+.idea
+
+# Coverage
+coverage
+
+# Turborepo
+.turbo
